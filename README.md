@@ -27,3 +27,8 @@ spago init
 ```
 spago test
 ```
+
+
+```
+spago repl
+```
