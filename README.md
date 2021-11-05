@@ -23,3 +23,7 @@ mkdir purescript-unicorns && cd purescript-unicorns
 ```
 spago init
 ```
+
+```
+spago test
+```
