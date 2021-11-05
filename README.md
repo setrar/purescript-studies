@@ -13,3 +13,13 @@ npm install purescript --global
 ```
 npm install spago --global
 ```
+
+## Super quick tutorial
+
+```
+mkdir purescript-unicorns && cd purescript-unicorns
+```
+
+```
+spago init
+```
